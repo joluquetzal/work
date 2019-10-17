@@ -1,0 +1,17 @@
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe.config
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.exe
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\bin\Debug\SistemaAlumnos.pdb
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csprojAssemblyReference.cache
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\MainWindow.g.cs
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\App.g.cs
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos_MarkupCompile.cache
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos_MarkupCompile.lref
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\MainWindow.baml
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.g.resources
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.Properties.Resources.resources
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csproj.GenerateResource.cache
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.exe
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\SistemaAlumnos.pdb
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\Alta.g.cs
+C:\Users\dai\Desktop\vsAna\SistemaAlumnos\SistemaAlumnos\SistemaAlumnos\obj\Debug\Alta.baml

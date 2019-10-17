@@ -1,0 +1,26 @@
+﻿<Window x:Class="SistemaAlumnos.Alta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SistemaAlumnos"
+        mc:Ignorable="d"
+        Title="Alta" Height="360" Width="550" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="clave única" HorizontalAlignment="Left" Margin="43,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="nombre" HorizontalAlignment="Left" Margin="43,96,0,0" VerticalAlignment="Top"/>
+        <Label Content="sexo" HorizontalAlignment="Left" Margin="43,146,0,0" VerticalAlignment="Top"/>
+        <Label Content="correo" HorizontalAlignment="Left" Margin="43,191,0,0" VerticalAlignment="Top"/>
+        <Label Content="semestre" HorizontalAlignment="Left" Margin="43,222,0,0" VerticalAlignment="Top"/>
+        <Label Content="programa" HorizontalAlignment="Left" Margin="43,266,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbFolio" HorizontalAlignment="Left" Height="23" Margin="132,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbNombre" HorizontalAlignment="Left" Height="23" Margin="132,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbSexo" HorizontalAlignment="Left" Height="23" Margin="132,146,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbCorreo" HorizontalAlignment="Left" Height="23" Margin="132,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tbSemestre" HorizontalAlignment="Left" Height="23" Margin="132,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cbProgramas" HorizontalAlignment="Left" Margin="132,266,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btAgregar" Content="Agregar" HorizontalAlignment="Left" Margin="356,50,0,0" VerticalAlignment="Top" Width="75"  />
+        <Button x:Name="btEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="356,100,0,0" VerticalAlignment="Top" Width="75" />
+
+    </Grid>
+</Window>
